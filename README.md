@@ -17,3 +17,16 @@
 # Features-> Admin Side
 1. The admin can log in only with a secret key.
 2. The admin can schedule or cancel the user's appointment. The respective user will be notified through SMS about the respective action (cancellation or scheduled).
+
+# Screenshots
+![1](https://github.com/user-attachments/assets/88d77b27-6b28-47af-b225-ec2da5fdf16a)
+![2](https://github.com/user-attachments/assets/557fe2b4-b6b7-4919-bd46-818ee47f1195)
+![3](https://github.com/user-attachments/assets/431e288f-b71e-4e7f-b4af-9b783dbbc455)
+![4](https://github.com/user-attachments/assets/bc4a6f39-1e2c-477c-b096-8e971b172ed0)
+![5](https://github.com/user-attachments/assets/f30ee2c7-175c-49af-aaf6-7b87c0d4d670)
+![6](https://github.com/user-attachments/assets/04641fe4-a17a-46c2-aa3c-8c7a09061866)
+![7](https://github.com/user-attachments/assets/cb7e4b58-aa1e-42a6-a191-9929851ce330)
+![8](https://github.com/user-attachments/assets/b3630b2c-7944-4725-932d-6cd7aaba3f20)
+![9](https://github.com/user-attachments/assets/d9368313-ef0d-48c1-b605-9e37733a2b1d)
+![10](https://github.com/user-attachments/assets/83d692c2-7159-4de3-9e73-9b293a8096bc)
+
