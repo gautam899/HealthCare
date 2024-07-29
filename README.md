@@ -1,4 +1,4 @@
-## A HealthCare Management System build with NextJs.
+## A Fully Responsive HealthCare Management System built with NextJs.
 
 # TechStack Used
 1. Nextjs
@@ -29,4 +29,6 @@
 ![8](https://github.com/user-attachments/assets/b3630b2c-7944-4725-932d-6cd7aaba3f20)
 ![9](https://github.com/user-attachments/assets/d9368313-ef0d-48c1-b605-9e37733a2b1d)
 ![10](https://github.com/user-attachments/assets/83d692c2-7159-4de3-9e73-9b293a8096bc)
+![11](https://github.com/user-attachments/assets/1c1175e8-8c0b-4013-85db-48fb93e6003b)
+![12](https://github.com/user-attachments/assets/c02e3224-bd88-4203-b654-0aa948574b57)
 
